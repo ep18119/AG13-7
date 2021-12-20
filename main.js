@@ -84,8 +84,8 @@ var ASSETS = {
     'E_R1': './Enemy1_img/Enemy_Rleg1.png',
     'E_R2': './Enemy1_img/Enemy_Rleg2.png',
     'Frame': './other_img/frame.png',
-    'Shock1': './Enemy1_img/shock1.png',
-    'Shock2': './Enemy1_img/shock2.png',
+    'Shock1': './Enemy1_img/Shock1.png',
+    'Shock2': './Enemy1_img/Shock2.png',
     'Stage1': './other_img/stage1.png',
   },
 };
